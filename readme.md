@@ -10,6 +10,11 @@ npm init
 ```bash
 npm i webpack -S
 touch webpack.config.js
+```
+
+Run webpack in dev
+
+```bash
 ./node_modules/.bin/webpack -d
 ```
 
